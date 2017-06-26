@@ -27,9 +27,9 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'activesupport', '4.0.13'
 
   gem.add_development_dependency 'rake', '< 11.0'
-  gem.add_development_dependency 'rspec-core', '~> 2.14.0'
-  gem.add_development_dependency 'rspec-expectations', '~> 2.14.0'
-  gem.add_development_dependency 'rspec-mocks', '~> 2.14.0'
+  gem.add_development_dependency 'rspec-core', '~> 3.6'
+  gem.add_development_dependency 'rspec-expectations', '~> 3.6'
+  gem.add_development_dependency 'rspec-mocks', '~> 3.6'
   gem.add_development_dependency 'webmock', '~> 1.11.0'
   gem.add_development_dependency 'simplecov', '0.10'
   gem.add_development_dependency 'simplecov-console', '0.2.0'
